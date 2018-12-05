@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
-minMagisk=17000
+id=cwme
+name=Xiaomi Dual Camera Watermark Editor
+version=v1.2
+versionCode=3
+author=shripal17
+description=Customise the dual camera watermark systemlessly!
+template=17000
