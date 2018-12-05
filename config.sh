@@ -40,9 +40,11 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "**********************************"
-  ui_print " Mi Dual Camera Watermark Editor  "
-  ui_print "**********************************"
+  ui_print "******************************"
+  ui_print " Dual Camera Watermark Editor "
+  ui_print "     for Xiaomi Devices       "
+  ui_print "        by @shripal17         "
+  ui_print "******************************"
 }
 
 ##########################################################################################

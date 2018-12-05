@@ -4,4 +4,4 @@ version=v1.2
 versionCode=3
 author=shripal17
 description=Customise the dual camera watermark systemlessly!
-template=17000
+minMagisk=17000
