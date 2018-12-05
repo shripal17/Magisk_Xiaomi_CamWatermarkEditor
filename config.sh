@@ -40,9 +40,9 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
-  ui_print "*******************************"
+  ui_print "**********************************"
+  ui_print " Mi Dual Camera Watermark Editor  "
+  ui_print "**********************************"
 }
 
 ##########################################################################################
@@ -63,6 +63,7 @@ REPLACE="
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
+/system/etc/dualcamera.png
 "
 
 ##########################################################################################
@@ -85,6 +86,8 @@ set_permissions() {
 
   # The following is default permissions, DO NOT remove
   set_perm_recursive  $MODPATH  0  0  0755  0644
+  set_perm $MODPATH/system/etc/dualcamera.png 0	0 0644
+  set_perm $MODPATH/system/etc/cwme 0 0 0644
 }
 
 ##########################################################################################
