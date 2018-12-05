@@ -1,6 +1,6 @@
 # Xiaomi Dual Camera Watermark Editor
 
-<p align="center"><img src='https://lh3.googleusercontent.com/TQeJcZnha3JVqfBEyw5rUyptBavCMO5IUG22UGEKi3_CCxtVLxagzbTcMqNHr_xHnJE' height="180"/></br><a href="https://forum.xda-developers.com/mi-a1/themes/camera-watermark-editor-t3689342"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a></p>
+<p align="center"><img src='https://lh3.googleusercontent.com/TQeJcZnha3JVqfBEyw5rUyptBavCMO5IUG22UGEKi3_CCxtVLxagzbTcMqNHr_xHnJE' height="180"/></br><a href="https://forum.xda-developers.com/mi-a1/themes/camera-watermark-editor-t3689342"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a></br><a href='https://www.xda-developers.com/xiaomi-mi-a1-camera-magisk/'><img src='https://img.shields.io/badge/XDA-FEATURED-brightgreen.svg?style=for-the-badge'/></a></p>
 
 Easily customise the Dual Camera Watermark with this Magisk Module (Optional) (provided for systemless functionality) and the CamWaterMarkEditor App
 
